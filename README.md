@@ -38,8 +38,6 @@
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
 :globe_with_meridians: [Meus Artigos Blog Revelo Community](https://community.revelo.com/author/ana) 
 
-## Badges, Selos e Credenciais
-
 ### [Badges Credly](https://www.credly.com/users/anamariasilva/badges#credly)
 
 ### [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges)
