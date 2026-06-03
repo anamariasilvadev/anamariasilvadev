@@ -1,4 +1,4 @@
-# GitHub da Ana Maria @githubanamaria
+# GitHub da Ana Maria
 
 ![capa README do GitHub da Ana Maria](https://www.anamaria.dev.br/github/capa-github.png)
 
