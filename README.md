@@ -29,14 +29,13 @@
 <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
 
-## Conteúdos Content Creator
+## Conteúdos na Web
 
 :globe_with_meridians: [Página Oficial Embaixadores Alura Stars](https://www.alura.com.br/stars) <br>
 :globe_with_meridians: [Entrevista Programe como uma Garota](https://programecomoumagarota.com/mulheres-que-inspiram-ana-maria/) <br>
 :globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
-:globe_with_meridians: [Meus Artigos Blog Revelo Community](https://community.revelo.com/author/ana) 
 
 ### [Badges Credly](https://www.credly.com/users/anamariasilva/badges#credly)
 
