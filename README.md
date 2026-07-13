@@ -1,4 +1,4 @@
-# GitHub da Ana Maria
+# GitHub Ana Maria Silva
 
 ![https://www.anamaria.dev.br/github/capa-github.png](https://www.anamaria.dev.br/github/capa-readme-github.png)
 
@@ -8,7 +8,7 @@
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
 :mortar_board: Bacharel em Ciência da Computação - UERJ <br>
-:computer: Analista de TI | Desenvolvedora Web Front-end<br>
+:computer: Analista de TI | Desenvolvedora Web Front-end <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br>
 <br>
@@ -39,8 +39,8 @@
 
 ## Credenciais
 
-- [Credly](https://www.credly.com/users/anamariasilva/badges#credly)
-- [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges)
+:globe_with_meridians: [Credly](https://www.credly.com/users/anamariasilva/badges#credly) <br>
+:globe_with_meridians: [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges) <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake-dark.svg">
