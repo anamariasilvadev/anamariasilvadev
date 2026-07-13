@@ -2,7 +2,7 @@
 
 ![https://www.anamaria.dev.br/github/capa-github.png](https://www.anamaria.dev.br/github/capa-readme-github.png)
 
-## <code>Hello World, GitHub!</code>
+<code>Hello World, GitHub!</code>
 
 :trophy: ITIL Foundation Certificate in IT Service Management (2026) <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
@@ -10,8 +10,7 @@
 :mortar_board: Bacharel em Ciência da Computação - UERJ <br>
 :computer: Analista de TI | Desenvolvedora Web Front-end<br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
-:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br>
-<br>
+:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br><br>
 :computer: Projetos e repositórios colaborativos no meu perfil antigo do GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
 <br>
@@ -37,9 +36,10 @@
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
 
-### [Badges Credly](https://www.credly.com/users/anamariasilva/badges#credly)
+## Credenciais
 
-### [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges)
+- [Credly](https://www.credly.com/users/anamariasilva/badges#credly)
+- [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake-dark.svg">
