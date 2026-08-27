@@ -44,7 +44,7 @@
 
 <a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 
-<img width="180" height="180" alt="TIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" />
+<a href="https://badges.peoplecert.org/Badge/en/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="180" height="180" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a>
 
 
 <picture>
