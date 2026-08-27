@@ -40,8 +40,12 @@
 
 ## Credenciais
 
-:globe_with_meridians: [Credly](https://www.credly.com/users/anamariasilva/badges#credly) <br>
-:globe_with_meridians: [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges) <br>
+<a href="https://www.credly.com/users/anamariasilva/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Credly-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
+
+<a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
+
+<img width="180" height="180" alt="TIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake-dark.svg">
