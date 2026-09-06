@@ -4,11 +4,11 @@
 
 <code>Hello World, GitHub!</code>
 
-:trophy: ITIL Foundation Certificate in IT Service Management pela PeopleCert (2026) <br>
-:mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
-:mortar_board: Pós-Graduação em Tecnologias e Inovações para Web - SENAC <br>
-:mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
-:mortar_board: Bacharel em Ciência da Computação - UERJ <br>
+:trophy: ITIL® 4 Foundation Certificate in IT Service Management pela PeopleCert (2026) <br>
+:mortar_board: Pós-Graduação em Análise e Projeto de Sistemas/PUC-Rio <br>
+:mortar_board: Pós-Graduação em Tecnologias e Inovações para Web/SENAC <br>
+:mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
+:mortar_board: Bacharel em Ciência da Computação/UERJ <br>
 :computer: PMI® Membership | Analista de TI [Requisitos e Negócios] | Desenvolvedora Front-end <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br>
