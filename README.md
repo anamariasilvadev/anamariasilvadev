@@ -15,19 +15,14 @@
 <br>
 :computer: Projetos e repositórios colaborativos no meu perfil antigo do GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
-<section>
-<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
-</section>
 
-<section>
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> 
-<a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a> 
-<a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
-</section>
+## Site e Portfólio
 
-<section>
-<a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> <a href="https://builder.aws.com/community/@anamariasilva"><img alt="AWS Builder Center" src="https://img.shields.io/badge/AWS Builder Center-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
-</section>
+<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
+
+## Redes Sociais
+
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a> <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> <a href="https://builder.aws.com/community/@anamariasilva"><img alt="AWS Builder Center" src="https://img.shields.io/badge/AWS Builder Center-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 
 ## Contatos
 
@@ -35,7 +30,7 @@
 
 ## Credenciais e Badges
 
-<a href="https://www.credly.com/users/anamariasilva/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Badges Credly-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://dev.to/anamaria"><img alt="Dev" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
+<a href="https://www.credly.com/users/anamariasilva/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Badges Credly-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 
 <a href="https://badges.peoplecert.org/Badge/en/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="100" height="100" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a>
 
