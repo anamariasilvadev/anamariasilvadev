@@ -25,15 +25,7 @@
 <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a> 
 <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
 
-## Conteúdos na Web
-
-:globe_with_meridians: [Página Oficial Embaixadores Alura Stars](https://www.alura.com.br/stars) <br>
-:globe_with_meridians: [Entrevista Programe como uma Garota](https://programecomoumagarota.com/mulheres-que-inspiram-ana-maria/) <br>
-:globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
-:globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
-:globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
-
-## Credenciais
+## Credenciais e Badges
 
 <a href="https://www.credly.com/users/anamariasilva/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Badges Credly-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> <a href="https://builder.aws.com/community/@anamariasilva"><img alt="AWS Builder Center" src="https://img.shields.io/badge/AWS Builder Center-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://dev.to/anamaria"><img alt="Dev" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 
