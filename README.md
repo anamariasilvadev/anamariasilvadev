@@ -11,9 +11,8 @@
 :mortar_board: Bacharel em Ciência da Computação/UERJ <br>
 :computer: Analista de TI [Requisitos e Negócios] | Desenvolvedora front-end <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
-:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br>
+:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia <br>
 <br>
-:computer: Projetos e repositórios colaborativos no meu perfil antigo do GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
 
