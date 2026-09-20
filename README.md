@@ -15,16 +15,11 @@
 <br>
 :computer: Projetos e repositórios colaborativos no meu perfil antigo do GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
+<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
 
 ## Contatos
 
-<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
-
-<section>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a> <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> <a href="https://builder.aws.com/community/@anamariasilva"><img alt="AWS Builder Center" src="https://img.shields.io/badge/AWS Builder Center-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
-</section>
-
-## E-mails
 
 <a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="mailto:contato@anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamariasilva.com.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
