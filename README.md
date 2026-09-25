@@ -15,7 +15,7 @@
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia <br>
 <br>
 
-<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="static/v1?label=Lattes&message=Currículo Lattes&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
+<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-258ffa?style=for-the-badge&logoColor=white&color=blue"/></a> 
 <br><br>
 <a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="mailto:contato@anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamariasilva.com.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
