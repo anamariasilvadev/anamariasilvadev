@@ -10,7 +10,7 @@
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
 :mortar_board: Bacharel em Ciência da Computação/UERJ <br>
 :computer: Analista de TI [Requisitos e Negócios] | Desenvolvedora front-end <br>
-:blue_heart: Embaixadora PrograMaria e Alura Star <br>
+:blue_heart: Women Techmakers Ambassador, Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia <br>
 <br>
 
