@@ -13,6 +13,8 @@
 :blue_heart: Women Techmakers Ambassador, Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia <br>
 <br>
+Acesse: [profile.google/@ana.tech.dev](https://profile.google/@ana.tech.dev)
+<br>
 
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="http://lattes.cnpq.br/7521433562805412"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo Lattes-258ffa?style=for-the-badge&logoColor=white&color=blue"/></a> 
 <br><br>
