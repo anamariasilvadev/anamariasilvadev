@@ -4,7 +4,7 @@
 
 <code>Hello World, GitHub!</code>
 
-:trophy: [GitHub Foundations](https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346) | ITIL® 4 Foundation Certificate in IT Service Management <br>
+:trophy: [Certificação GitHub Foundations](https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346) | ITIL® 4 Foundation Certificate in IT Service Management <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas/PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web/SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
