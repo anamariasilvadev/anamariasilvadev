@@ -4,12 +4,12 @@
 
 <code>Hello World, GitHub!</code>
 
-:trophy: PMI® Certified Member | ITIL® 4 Foundation Certificate in IT Service Management <br>
+:trophy: [GitHub Foundations](https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346) | ITIL® 4 Foundation Certificate in IT Service Management <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas/PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web/SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
 :mortar_board: Bacharel em Ciência da Computação/UERJ <br>
-:computer: Analista de TI [Requisitos e Negócios] | Desenvolvedora front-end <br>
+:computer: PMI® Certified Member | Analista de TI [Requisitos e Negócios] | Desenvolvedora front-end <br>
 :blue_heart: Women Techmakers Ambassador, Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia <br>
 <br>
