@@ -4,7 +4,7 @@
 
 <code>Hello World, GitHub!</code>
 
-:trophy: [Certificação GitHub Foundations](https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346) | ITIL® 4 Foundation Certificate in IT Service Management <br>
+:trophy: Certificação GitHub Foundations | ITIL® 4 Foundation Certificate in IT Service Management <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas/PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web/SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
@@ -28,7 +28,7 @@ Acesse: [profile.google/@ana.tech.dev](https://profile.google/@ana.tech.dev)
 
 <br>
 
-<a href="[https://community.pmi.org/profile/anamariasilva](https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346)"><img width="99" height="100" alt="image" src="https://github.com/user-attachments/assets/35abb51b-b1d2-4261-8529-0fd9de074227" /></a> <a href="https://community.pmi.org/profile/anamariasilva"><img width="102" height="100" alt="PMI Certified Member" src="https://github.com/user-attachments/assets/d5e7ee1c-43fd-443a-8d76-6a6a74bb8355" /></a> <a href="https://badges.peoplecert.org/Badge/en/3/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="100" height="100" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346"><img width="99" height="100" alt="image" src="https://github.com/user-attachments/assets/35abb51b-b1d2-4261-8529-0fd9de074227" /></a> <a href="https://community.pmi.org/profile/anamariasilva"><img width="102" height="100" alt="PMI Certified Member" src="https://github.com/user-attachments/assets/d5e7ee1c-43fd-443a-8d76-6a6a74bb8355" /></a> <a href="https://badges.peoplecert.org/Badge/en/3/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="100" height="100" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake-dark.svg">
