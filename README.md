@@ -1,6 +1,7 @@
 # GitHub da Ana Maria Silva
 
-<img alt="capa GitHub Ana Maria Silva" src="https://github.com/user-attachments/assets/00cf6584-4853-4286-8948-6cd8044e500a" />
+<img alt="Capa GitHub Ana Maria Silva" src="https://github.com/user-attachments/assets/ef650444-73e0-40af-b1f4-692486f3592c" />
+
 
 <code>Hello World, GitHub!</code>
 
