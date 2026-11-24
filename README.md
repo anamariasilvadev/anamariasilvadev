@@ -4,7 +4,7 @@
 
 <code>Hello World, GitHub!</code>
 
-:trophy: Scrum Fundamentals Certified e Business Analysis Fundamentals Certified | GitHub Foundations | ITIL® 4 Foundation Certificate in IT Service Management <br>
+:trophy: GitHub Foundations | ITIL® 4 Foundation Certificate in IT Service Management <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas/PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web/SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio <br>
@@ -27,8 +27,7 @@
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=Microsoft&logoColor=white&color=blue"/></a> <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> <a href="https://www.credly.com/users/anamariasilva/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Badges Credly-%23E4405F.svg?style=for-the-badge&logo=credly&logoColor=white&color=blue"/></a> <a href="https://www.holopin.io/@anamariasilva#badges"><img alt="Badges de Contribuição Hacktoberfest" src="https://img.shields.io/badge/Badges Hacktoberfest-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>  
 
 <br>
-
-<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1209441"><img width="100" height="100" alt="Scrum Fundamentals Certified" src="https://github.com/user-attachments/assets/dd75985f-2681-4337-9721-ebf25d399651" /></a> <a href="https://learn.microsoft.com/api/credentials/share/pt-br/anamariasilva/D6A7EA65B1ACDA9F?sharingId=CB569E6900760346"><img width="99" height="100" alt="image" src="https://github.com/user-attachments/assets/35abb51b-b1d2-4261-8529-0fd9de074227" /></a> <a href="https://badges.peoplecert.org/Badge/en/3/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="100" height="100" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a> <a href="https://community.pmi.org/profile/anamariasilva"><img width="100" height="100" alt="PMI Membership Badge" src="https://github.com/user-attachments/assets/314f7268-57a5-4f1a-a648-f3f9474dabff" /></a>
+<a href="https://learn.microsoft.com/pt-br/users/anamariasilva/credentials/d6a7ea65b1acda9f"><img width="99" height="100" alt="image" src="https://github.com/user-attachments/assets/35abb51b-b1d2-4261-8529-0fd9de074227" /></a> <a href="https://badges.peoplecert.org/Badge/en/3/2ADF3FA2-44BE-4B88-B13B-9E87FD44261F"><img width="100" height="100" alt="ITIL® 4 Foundation Certificate in IT Service Management" src="https://github.com/user-attachments/assets/9174d6e3-8236-4602-a8f2-5e9b834cae7f" /></a> <a href="https://community.pmi.org/profile/anamariasilva"><img width="100" height="100" alt="PMI Membership Badge" src="https://github.com/user-attachments/assets/314f7268-57a5-4f1a-a648-f3f9474dabff" /></a>
 
 
 <picture>
